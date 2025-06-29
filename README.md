@@ -1,12 +1,53 @@
-# React + Vite
+# 🎬 RADAMOVIES - React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern movie streaming web application built with React, Tailwind CSS, and TMDB API (or fake movie data). Inspired by Netflix and designed for a seamless UI experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Search movies and TV shows
+- 📺 Browse categories like Trending, Top Rated, and Upcoming
+- ❤️ Add movies to your personal list
+- 🌙 Responsive dark mode UI
+- 🧩 Scroll-based navbar animation
+- 🎨 Clean design using Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
+ ![image alt](https://github.com/radaxsumit/RADA-MOVIES-App/blob/2d02cb6e40a5bb66a29920baa463d3a18d5a97aa/Screenshot%202025-06-29%20153803.png)
+ ![image alt](https://github.com/radaxsumit/RADA-MOVIES-App/blob/2d02cb6e40a5bb66a29920baa463d3a18d5a97aa/Screenshot%202025-06-29%20161204.png)
+ ![image alt](https://github.com/radaxsumit/RADA-MOVIES-App/blob/2d02cb6e40a5bb66a29920baa463d3a18d5a97aa/Screenshot%202025-06-29%20153904.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🔄 useEffect, useRef
+- 📦 Vite
+- 📡 TMDB & API
+
+## 📁 Folder Structure
+├── src
+│ ├── Components
+│ ├── assets
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+
+
+## 📦 Installation & Running Locally
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/movieverse-app.git
+cd movieverse-app
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the app
+npm run dev 
+
+🤝 Contributing
+Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to change.
+
+📄 License
+This project is open source and available under the MIT License.
