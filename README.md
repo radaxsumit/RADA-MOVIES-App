@@ -12,8 +12,13 @@ A modern movie streaming web application built with React, Tailwind CSS, and TMD
 - 🎨 Clean design using Tailwind CSS
 
 ## 🖼️ Screenshots
+Home Page
  ![image alt](https://github.com/radaxsumit/RADA-MOVIES-App/blob/2d02cb6e40a5bb66a29920baa463d3a18d5a97aa/Screenshot%202025-06-29%20153803.png)
+
+Trending Section 
  ![image alt](https://github.com/radaxsumit/RADA-MOVIES-App/blob/2d02cb6e40a5bb66a29920baa463d3a18d5a97aa/Screenshot%202025-06-29%20161204.png)
+
+Movies & Description 
  ![image alt](https://github.com/radaxsumit/RADA-MOVIES-App/blob/2d02cb6e40a5bb66a29920baa463d3a18d5a97aa/Screenshot%202025-06-29%20153904.png)
 
 ## 🛠️ Tech Stack
